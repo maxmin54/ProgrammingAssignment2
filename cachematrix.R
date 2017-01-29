@@ -1,4 +1,4 @@
-## https://github.com/tan-s/ProgrammingAssignment2.git
+## https://github.com/ProgrammingAssignment2
 ## R Programming Assignment 2: Lexical Scoping——caching the inverse of a matrix
 
 ## The makeCacheMatrix function creates a special "matrix",
