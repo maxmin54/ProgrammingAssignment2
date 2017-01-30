@@ -1,7 +1,6 @@
 ## R Programming Assignment 2: Lexical Scoping——caching the inverse of a matrix
 
-## The makeCacheMatrix function creates a special "matrix",
-## which is actually a list containing a function to
+## The makeCacheMatrix function creates a special "matrix",which is a list containing a function to
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
 ## 3. set the value of the inverse of the matrix
