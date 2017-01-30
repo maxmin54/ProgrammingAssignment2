@@ -1,6 +1,4 @@
-## https://github.com/ProgrammingAssignment2
 ## R Programming Assignment 2: Lexical Scoping——caching the inverse of a matrix
-
 ## The makeCacheMatrix function creates a special "matrix",
 ## which is actually a list containing a function to
 ## 1. set the value of the matrix
@@ -17,11 +15,7 @@ makeCacheMatrix <- function(x = matrix()) {
   get <- function() x
   setinverse <- function(inverse) i <<- inverse
   getinverse <- function() i
-  list(
-    set = set,
-    get = get,
-    setinverse = setinverse,
-    getinverse = getinverse)
+  list(set = set,get = get，setinverse = setingetinverse = getinverse)
 }
 
 ## The cacheSolve function calculates the inverse of the special "matrix"
